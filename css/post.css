@@ -1,0 +1,20 @@
+/*By Pavel Teplyuk*/
+
+#annotation {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#share {
+	display: inline;
+}
+
+#content img {
+	border-radius: 10px;
+}
+
+.comment {
+	background-color: #D7D0A0;
+	border-radius: 7px;
+	padding: 5px;
+}

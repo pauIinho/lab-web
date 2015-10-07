@@ -1,0 +1,44 @@
+/*By Pavel Teplyuk*/
+
+#mandatory {
+	float: left;
+}
+
+#additional {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+label {
+	float:left; 
+	padding-right:10px;
+}
+
+.field {
+	clear:both; 
+	text-align:right; 
+	line-height:25px;
+	margin-top: 5px;
+}
+.main {
+	background-color: #D7D0A0;
+	border-radius: 5px;
+	padding: 10px;
+	margin-left: 25px;
+	margin-top: 0px;
+	float:left;
+
+}
+
+#mandatory h4, #additional h4 {
+	margin-left: 25px;
+}
+
+#rules p {
+	font-size: 16px;
+	text-align: justify;
+}
+
+.css-input {
+	width: 150px;
+}
